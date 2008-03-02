@@ -1,4 +1,4 @@
-%define	version	0.4.1
+%define	version	0.4.2
 %define release	%mkrel 1
 
 Summary:	Command-line version of StarDict dictionary
@@ -41,4 +41,4 @@ rm -rf %{buildroot}
 %doc README
 %{_bindir}/*
 %{_mandir}/man1/sdcv*
-
+%{_mandir}/uk/man1/sdcv*
