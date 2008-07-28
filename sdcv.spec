@@ -1,5 +1,5 @@
 %define	version	0.4.2
-%define release	%mkrel 1
+%define release	%mkrel 3
 
 Summary:	Command-line version of StarDict dictionary
 Name:		sdcv
