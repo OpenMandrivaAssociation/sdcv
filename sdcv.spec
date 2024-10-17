@@ -7,7 +7,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Text tools
-URL:		http://sdcv.sourceforge.net/
+URL:		https://sdcv.sourceforge.net/
 Source:		http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.bz2
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	readline-devel
